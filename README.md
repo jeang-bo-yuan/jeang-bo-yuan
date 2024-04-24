@@ -1,10 +1,10 @@
 # NTUST Homework
 
+## OOP
+
 - [P01 - Minesweeper](https://github.com/jeang-bo-yuan/oop-qt-project/tree/main/minesweeper)
 - [P02 - Chess](https://github.com/a0922762/NTUST_OOP_Project2_Chess)
 - [P03 - Pokemon](https://github.com/jeang-bo-yuan/NTUST-OOP-Project3-Pokemon)
-
-## OOP
 
 ## 圖學
 
