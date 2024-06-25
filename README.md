@@ -9,8 +9,8 @@
 ## 圖學
 
 - [賴佑吉 - Project1 + Project2 + Project3 Checkpoint1](https://github.com/jeang-bo-yuan/NTUST-Introduction-to-Computer-Graphics)
-- [賴佑吉 - Project3 Checkpoint2](https://github.com/jeang-bo-yuan/NTUST-opengl-wave)
-- [賴佑吉 - Project3](https://github.com/jeang-bo-yuan/NTUST-opengl-theme-park)
+- [賴佑吉 - Project3 Checkpoint2 - 水面](https://github.com/jeang-bo-yuan/NTUST-opengl-wave)
+- [賴佑吉 - Project3 - 空中小島](https://github.com/jeang-bo-yuan/NTUST-opengl-theme-park)
 
 ## 多媒體
 
