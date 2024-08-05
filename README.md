@@ -1,3 +1,8 @@
+# Open Source
+
+- [Nano編輯器－語法高亮](https://github.com/jeang-bo-yuan/nanorc-syntax-highlight)
+- [Rime輸入法－行列輸入方案](https://github.com/jeang-bo-yuan/rime-array-extended)
+
 # NTUST Homework
 
 ## OOP
