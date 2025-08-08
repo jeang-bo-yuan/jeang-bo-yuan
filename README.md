@@ -34,7 +34,7 @@
 
 ## 軟體工程
 
-- [團體作業 - Binary Editor](https://github.com/jeang-bo-yuan/BinaryEditor)
+- [Binary Editor](https://github.com/jeang-bo-yuan/BinaryEditor) （團體作業）
 
 ## 作業系統
 
