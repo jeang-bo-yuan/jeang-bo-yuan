@@ -17,8 +17,8 @@
 ## OOP
 
 - [P01 - Minesweeper](https://github.com/jeang-bo-yuan/oop-qt-project/tree/main/minesweeper)
-- [P02 - Chess](https://github.com/a0922762/NTUST_OOP_Project2_Chess)
-- [P03 - Pokemon](https://github.com/jeang-bo-yuan/NTUST-OOP-Project3-Pokemon)
+- [P02 - Chess](https://github.com/a0922762/NTUST_OOP_Project2_Chess) （團體作業）
+- [P03 - Pokemon](https://github.com/jeang-bo-yuan/NTUST-OOP-Project3-Pokemon) （團體作業）
 
 ## 圖學
 
