@@ -39,7 +39,7 @@
 ## 作業系統
 
 - [NachOS](https://github.com/jeang-bo-yuan/NachOS) （HW5 為團體作業）
-- [IOCTL](https://github.com/jeang-bo-yuan/IOCTL)
+- [IOCTL](https://github.com/jeang-bo-yuan/IOCTL) （團體作業）
 
 <!--
 **jeang-bo-yuan/jeang-bo-yuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
